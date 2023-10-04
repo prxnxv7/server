@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fe983601-b04d-4c08-a092-59f538c53431/resourceGroups/Angular-notification_group/providers/Microsoft.Web/sites/server-angular",
+    "appService.deploySubpath": "."
+}
